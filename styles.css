@@ -11,7 +11,7 @@
     font-size: 1.2rem !important;
 }
 
-#menu a, .dropdown-menu li a {
+#menu a, .dropdown-menu > li > a {
     text-decoration: none;
 }
 
